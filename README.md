@@ -1,4 +1,4 @@
-## Operational Systems for Embedded Systems - Tunable Lamp ##
+## NXP - Tunable Lamp ##
 
 This project was implemented using a S32K144 evaluation board running the Micrium µC/OS3 operating system. Features covered by the implementation:
 1. The S32K144 RGB led simulating the lamp;
