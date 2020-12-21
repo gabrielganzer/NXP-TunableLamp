@@ -1,4 +1,7 @@
 ## NXP - Tunable Lamp ##
+[![SHIELDS](https://img.shields.io/badge/development-completed-green)](https://shields.io/)
+
+## PROJECT DESCRIPTION
 
 This project was implemented using a S32K144 evaluation board running the Micrium µC/OS3 operating system. Features covered by the implementation:
 1. The S32K144 RGB led simulating the lamp;
@@ -9,3 +12,11 @@ The lamp operates as follows:
 2. Each time SW2 is pressed, the selected color is changed. The sequence in RED -> GREEN -> BLUE- > RED.
 3. Each time SW3 is pressed, the selected color is changed. The sequence is RED -> BLUE -> GREEN -> RED.
 4. If any of the button (SW2/SW3) remains pressed, the color shall not change.
+
+## DOCUMENTATION
+
+Source files can be found in the *NXP* folder, refer to *Report.pdf* for futher explanations.
+
+## LICENSE
+
+The source code of the project is licensed under the GPLv3 license, unless otherwise stated.
