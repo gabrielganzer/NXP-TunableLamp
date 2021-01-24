@@ -16,7 +16,3 @@ The lamp operates as follows:
 ## DOCUMENTATION
 
 Source files can be found in the *NXP* folder, refer to *Report.pdf* for futher explanations.
-
-## LICENSE
-
-The source code of the project is licensed under the GPLv3 license, unless otherwise stated.
