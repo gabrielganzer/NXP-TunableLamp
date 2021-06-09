@@ -3,7 +3,7 @@
 
 ## PROJECT DESCRIPTION
 
-This project was implemented using a S32K144 evaluation board running the Micrium µC/OS3 operating system. Features covered by the implementation:
+Control of a tunable lamp for smart homes using an S32K144 evaluation board running the Micrium µC/OS3 operating system developed in C with the S32 Design Studio IDE v2018.R1 for Arm® based MCUs. Features covered by the implementation:
 1. The S32K144 RGB led simulating the lamp;
 2. The S32K144 potentiometer for varying the lamp intensity;
 3. The S32K144 SW2 and SW3 as input buttons for changing the lamp color;
